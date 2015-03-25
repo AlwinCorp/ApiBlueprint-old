@@ -1,0 +1,3 @@
+entity:
+    resource: "@EntityBundle/Resources/config/routing.xml"
+    prefix:   /
